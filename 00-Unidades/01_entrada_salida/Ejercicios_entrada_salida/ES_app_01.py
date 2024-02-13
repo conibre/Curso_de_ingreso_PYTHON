@@ -7,6 +7,7 @@ import customtkinter
 '''
 nombre: Jose Ricardo
 apellido: Miranda
+tutor :Marina/Albana
 ---
 Ejercicio: entrada_salida_01
 ---
